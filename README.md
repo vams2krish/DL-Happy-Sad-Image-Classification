@@ -1,4 +1,4 @@
-# Image-Classification
+# DL-Happy-Sad-Image-Classification
 
 **Happy vs. sad image classification using a TensorFlow/Keras convolutional neural network.**
 
@@ -24,7 +24,7 @@ These are sample inputs, not benchmark results.
 ## Repository structure
 
 ```text
-Image-Classification/
+DL-Happy-Sad-Image-Classification/
 ├── main.ipynb                 # Complete training and inference walkthrough
 ├── Happy-Guy.jpg              # Example input
 ├── Sad-Guy.jpg                # Notebook inference example
@@ -46,8 +46,8 @@ The notebook's recorded environment used Python 3.12, TensorFlow 2.17.0, Keras 3
 With Python 3.12 installed:
 
 ```bash
-git clone https://github.com/vams2krish/Image-Classification.git
-cd Image-Classification
+git clone https://github.com/vams2krish/DL-Happy-Sad-Image-Classification.git
+cd DL-Happy-Sad-Image-Classification
 python -m venv .venv
 ```
 
